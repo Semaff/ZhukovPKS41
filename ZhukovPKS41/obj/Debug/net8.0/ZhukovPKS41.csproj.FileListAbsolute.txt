@@ -1,0 +1,15 @@
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\bin\Debug\net8.0\ZhukovPKS41.exe
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\bin\Debug\net8.0\ZhukovPKS41.deps.json
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\bin\Debug\net8.0\ZhukovPKS41.runtimeconfig.json
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\bin\Debug\net8.0\ZhukovPKS41.dll
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\bin\Debug\net8.0\ZhukovPKS41.pdb
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.AssemblyInfo.cs
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.sourcelink.json
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.dll
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\refint\ZhukovPKS41.dll
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.pdb
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ZhukovPKS41.genruntimeconfig.cache
+C:\Users\Family\source\repos\ZhukovPKS41\ZhukovPKS41\obj\Debug\net8.0\ref\ZhukovPKS41.dll
