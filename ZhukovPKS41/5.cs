@@ -5,7 +5,7 @@ class Program5
     static void Main()
     {
         // Пример использования функций
-        int sumResult = Sum(5, 7);
+        int sumResult = Sum(12, 7);
         Console.WriteLine($"Сумма: {sumResult}");
 
         double circleArea = CalculateCircleArea(3.5);
