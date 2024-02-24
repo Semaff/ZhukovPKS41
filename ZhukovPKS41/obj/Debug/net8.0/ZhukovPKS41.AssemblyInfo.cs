@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZhukovPKS41")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9616030c09c7e2b0b890c6a44a82c8a5a69c9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b90e02b430f64ec223b77a5e2eb3388c3bb51c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZhukovPKS41")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZhukovPKS41")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
